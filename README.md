@@ -1,3 +1,3 @@
 ## Portifólio APSE
 
-# este reposítorio é destinado para o armazemento do portifólio da matéria de Analise e Sistemas De Sistemas 
+# este reposítorio é reservado para o portifólio da matéria de Analise e Sistemas De Sistemas 
