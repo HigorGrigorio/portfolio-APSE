@@ -1,5 +1,5 @@
 # Portifólio APSE
- Descrição: este reposítorio é reservado para o portifólio da matéria de Analise e Projetos De Sistemas 
+ Descrição: este reposítorio é reservado para o portfólio da matéria de Analise e Projetos De Sistemas 
 
 ## Navegação
 
