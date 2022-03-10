@@ -14,4 +14,4 @@
 <br>
 
 ## Pesquisas
-## [Oque são requisitos]($root$/../docs/O%20que%20são%20requisitos.docx)
+## [Oque são requisitos]($root$/../docs/O%20que%20são%20requisitos.pdf)
