@@ -19,5 +19,7 @@
 <br>
 
 ## Trabalhos
-## [Levantamento de requisitos]($root$/../docs/Levantamento%20de%20Requisitos.pdf)
+## [Levantamento de requisitos - Aula 10/03]($root$/../docs/Levantamento%20de%20Requisitos.pdf)
+## [Levantamento de requisitos - Correção 17/03]($root$/../docs/Levantamento%20de%20Requisitos%202.0%20(Aula%2017-03).pdf)
+
 
