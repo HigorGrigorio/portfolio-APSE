@@ -21,6 +21,6 @@
 ## Trabalhos
 ## [Levantamento de requisitos - Aula 10/03]($root$/../docs/Levantamento%20de%20Requisitos.pdf)
 ## [Levantamento de requisitos - Correção 17/03]($root$/../docs/Levantamento%20de%20Requisitos%202.0%20(Aula%2017-03).pdf)
-## [Diagramas de caso de uso]($root$/../docs/Diagramas%20de%20Caso%20de%20Uso.pdf)
+## [Diagramas de caso de uso - 17/03]($root$/../docs/Diagramas%20de%20Caso%20de%20Uso.pdf)
 
 
