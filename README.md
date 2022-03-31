@@ -10,6 +10,7 @@
 
 ## PEA
 ## [<ins>24-02</ins>]($root$/../Avalição%20do%20PEA/PEA-24-02.md)
+## [<ins>31-03</ins>]($root$/../Avalição%20do%20PEA/PEA-31-03.md)
 
 <br>
 
@@ -22,4 +23,4 @@
 ## [Levantamento de requisitos - Aula 10/03]($root$/../docs/Levantamento%20de%20Requisitos.pdf)
 ## [Levantamento de requisitos - Correção 17/03]($root$/../docs/Levantamento%20de%20Requisitos%202.0%20(Aula%2017-03).pdf)
 
-
+## [Diagramas de caso de uso]($root$/../docs/Diagramas%20de%20Caso%20de%20Uso.pdf)
