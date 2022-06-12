@@ -1,8 +1,14 @@
 # Portifólio APSE
  Descrição: este reposítorio é reservado para o portfólio da matéria de Analise e Projetos De Sistemas 
  <br><br>
- É possivel encontar todos os documentos em .docx na pasta [<ins>docs</ins>]($root$/../docs)
+ É possivel encontar todos os documentos desta seção em .docx na pasta [<ins>docs</ins>]($root$/../docs)
 
+<br><br>
+
+> # Projeto Final
+## [Projeto de Software]($root$/../Projeto%20Final/Projeto%20de%20software/main.md)
+
+<br><br>
 ## [<ins>Memorial do Aluno</ins>]($root$/../Memorial%20do%20Aluno/Memorial.md)
 
 <br>
