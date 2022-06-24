@@ -13,12 +13,16 @@
 
 <br>
 
+## [<ins>Mapa Mental</ins>]($root$/../Mapa%20Mental/mapa%20mental.png)
+
+<br>
+
 > ## PEA
 ## [<ins>24-02</ins>]($root$/../Avalição%20do%20PEA/PEA-24-02.md)
 ## [<ins>31-03</ins>]($root$/../Avalição%20do%20PEA/PEA-31-03.md)
 ## [<ins>28-04</ins>]($root$/../Avalição%20do%20PEA/PEA-28-04.md)
 ## [<ins>26-05</ins>]($root$/../Avalição%20do%20PEA/PEA-26-05.md)
-
+## [<ins>23-06</ins>]($root$/../Avalição%20do%20PEA/PEA-23-06.md)
 
 <br>
 
