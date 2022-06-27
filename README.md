@@ -8,7 +8,8 @@
 > # Projeto Final
 ## [Projeto final]($root$/../Projeto%20Final/Projeto%20Final.pdf)
 
-<br><br>
+<br>
+
 ## [<ins>Memorial do Aluno</ins>]($root$/../Memorial%20do%20Aluno/Memorial.md)
 
 <br>
